@@ -6,4 +6,4 @@ ____
 <br>
 Видео: https://drive.google.com/drive/folders/1VjgbtOrA8vj7A3fNA4qxogi4CKXKTJ2s?usp=drive_link
 <br>
-Документ: https://docs.google.com/document/d/1kOe_fRFJnOfevTbZOONeKzTzOSap0k5pMeK7bMgHdfY/edit?usp=drivesdk
+Документ: https://docs.google.com/document/d/1imst90Rpf1O8N2r9m6wGu-sog6xL8hN4i8ZitZdOmEg/edit?usp=sharing
